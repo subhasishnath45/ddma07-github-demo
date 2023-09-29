@@ -4,11 +4,11 @@
     padding: 0;
 }
 body {
-    background: red url('../img/background.jpg');
+    background: rgb(87, 37, 37) url('../img/background.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
 }
 h1 {
-    color: #ffffff;
+    color: #4ef87e;
 }
