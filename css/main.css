@@ -10,5 +10,8 @@ body {
     background-position: center;
 }
 h1 {
-    color: #4ef87e;
+    color: #ffffff;
+}
+header {
+    background-color: aquamarine;
 }
